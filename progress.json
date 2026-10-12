@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T18:44:12.961Z",
+  "generated_at": "2026-10-12T10:15:06.091Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -170,6 +170,19 @@
       "path": "problems/0016-feature-scaling-implementation",
       "first_solved_at": "2026-10-11T18:44:11.896Z",
       "last_pushed_at": "2026-10-11T18:44:11.896Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-10-12T10:15:05.409Z",
+      "last_pushed_at": "2026-10-12T10:15:05.409Z",
       "language": "python",
       "lines": 9
     }
